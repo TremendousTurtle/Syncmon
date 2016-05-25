@@ -1,6 +1,6 @@
 <?php
 
-define('ftp_server','');
+define('ftp_server','test');
 define('ftp_user_name','');
 define('ftp_user_pass','');
 
